@@ -9,7 +9,10 @@ https://github.com/next-react-study/week-1.git fork해옵니다.
 
 ###  Install 
 
-```
+
+
+```sh
+init branch 부터 세팅 시작해봅시다 :) 
 nvm install v12.18.2
 yarn create react-app kmong-copy-w1 --template typescript
 or 
